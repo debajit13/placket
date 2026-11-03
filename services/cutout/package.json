@@ -1,0 +1,6 @@
+{
+  "name": "@placket/cutout",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Cloud Run cutout service (Python, FastAPI, rembg). Built in T-07."
+}
